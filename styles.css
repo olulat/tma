@@ -17,16 +17,17 @@ main{
 
 h1{
     text-align: center;
-    border-bottom: 2px solid #004643;
+  color: #E16162;
     letter-spacing: 1px;
 }
 
 h2{
-   color: #EFF0F3;
+    background-color: #F9BC60;
+   color: #004643;
     width: fit-content;
     margin: 25px auto;
     padding: 5px 35px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 h3{
@@ -39,6 +40,7 @@ strong{
     font-style: italic;
     font-weight: 900;
     font-size: larger;
+    color: #E16162;
 }
 
 section{
