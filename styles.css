@@ -9,10 +9,6 @@ body {
   background-color: #abd1c6;
 }
 
-header {
-  margin: 30px;
-}
-
 main {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
